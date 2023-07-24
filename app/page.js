@@ -15,7 +15,7 @@ DEKUT DEMO- When your fridge becomes your personal nutritionist by Collins Rotic
 
         <li><a href="https://github.com/collinskrotich/iot_temperature_tag" target="_blank">Github link</a> </li>
        
-        <li> <a href = "https://www.linkedin.com/in/collins-rotich/" target='_blank'>Let's Connect on LinkedIn</a></li>
+        <li> <a href = "https://www.linkedin.com/in/collins-rotich/" target='_blank'>Lets Connect on LinkedIn</a></li>
       </ul>
 </div>
     </main>
