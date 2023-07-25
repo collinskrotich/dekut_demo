@@ -2,12 +2,18 @@ import Image from 'next/image'
 
 export default function Home() {
   return (
-    <main className="flex min-h-screen flex-col items-center  p-24">
-DEKUT DEMO- When your fridge becomes your personal nutritionist by Collins Rotich
+    <main className="flex min-h-screen flex-col items-center p-24">
+      <div className='font-bold font-serif'>
+      DEKUT DEMO- When your fridge becomes your personal nutritionist 
+
+      </div>
+
 <div className='pt-10'>
         <ol class="list-decimal list-inside space-y-5">
         <li><a href="/dekut-saf-livedemo-fridge.pptx" download>Download PowerPoint</a></li>
-              
+
+        <li><a href="https://catalog.workshops.aws/getstartedwithawsiot/en-US/chapter1-introduction" target="_blank">Getting started with AWS IOT</a></li>
+             
         <li><a href="https://docs.arduino.cc/tutorials/mkr-wifi-1010/securely-connecting-an-arduino-mkr-wifi-1010-to-aws-iot-core" target="_blank">Connecting Arduino to AWS IOT Core</a> </li>
 
         <li><a href="https://iot-temperature-tag.vercel.app/" target="_blank">Demo Vercel Link</a> </li>
